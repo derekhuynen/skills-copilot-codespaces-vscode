@@ -36,5 +36,4 @@ app.post('/api/comments', function(req, res) {
       }
     });
     res.json(comments);
-}
-);
+});
